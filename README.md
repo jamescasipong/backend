@@ -4,6 +4,16 @@
 
 This project is a backend API built using PHP (Laravel) and MySQL. It provides endpoints for user authentication, inventory management, and sales tracking.
 
+## Getting Started
+
+To get started, you need to set up the following tools:
+
+1. **PHP**: Make sure PHP is installed on your system.
+2. **MySQL**: Install MySQL for database management.
+3. **Composer**: This is PHP's dependency manager, similar to npm for JavaScript.
+
+After installing these tools, follow this [tutorial](https://www.youtube.com/watch?v=iBaM5LYgyPk) to configure PHP and install Laravel. The video will guide you through the necessary PHP configurations and the installation process for Laravel.
+
 ## Project Structure
 
 Here’s a brief overview of the project structure:
