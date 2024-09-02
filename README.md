@@ -45,6 +45,11 @@ Here’s a brief overview of the project structure:
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
+   
+   or
+
+   Download & install GitHub Desktop, use it to clone it :) 
+   
    ```
 
 2. **Install dependencies:**
@@ -79,7 +84,8 @@ Here’s a brief overview of the project structure:
 - **POST /signup**: Register new users.
 - **GET /**: Retrieve all users.
 
-## Contributing
+
+<!--## Contributing
 
 Contributions are welcome! Please follow these guidelines:
 
@@ -87,4 +93,4 @@ Contributions are welcome! Please follow these guidelines:
 2. Create a feature branch (`git checkout -b feature/YourFeature`).
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
+5. Open a pull request.->
