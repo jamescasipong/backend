@@ -1,6 +1,3 @@
-Here’s a `README.md` template for your backend project with PHP (Laravel) and MySQL:
-
-```markdown
 # Backend API with PHP (Laravel) and MySQL
 
 ## Project Overview
@@ -81,8 +78,6 @@ Contributions are welcome! Please follow these guidelines:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
