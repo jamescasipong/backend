@@ -12,7 +12,7 @@ To get started, you need to set up the following tools:
 2. **MySQL**: Install MySQL for database management.
 3. **Composer**: This is PHP's dependency manager, similar to npm for JavaScript.
 
-After installing these tools, follow this [tutorial](https://www.youtube.com/watch?v=iBaM5LYgyPk) to configure PHP and install Laravel; installing Laravel just sucks and harder than coding in PHP. The video will guide you through the necessary PHP configurations and the installation process for Laravel.
+After installing these tools, follow this [tutorial](https://www.youtube.com/watch?v=iBaM5LYgyPk) to configure PHP and install Laravel; installing Laravel just sucks and harder than coding in PHP lmaoo. The video will guide you through the necessary PHP configurations and the installation process for Laravel.
 
 ## Project Structure
 
