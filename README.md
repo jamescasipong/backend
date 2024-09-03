@@ -12,7 +12,7 @@ To get started, you need to have an idea on how to set up the following tools:
 2. **MySQL**: Install MySQL for database management.
 3. **Composer**: This is PHP's dependency manager, similar to npm for JavaScript. For what purposes? Welp, tt is used for managing packages, such as installing useful packages like web-token, qr-code, etc., so you don't have to code them yourself.
 
-You may also follow this tutorial [tutorial](https://www.youtube.com/watch?v=iBaM5LYgyPk) for smooth installation, as there is some of the things in PHP that you have to configure to be able to install Laravel; installing Laravel just sucks and is harder than coding in PHP lmaoo. The video will guide you through the necessary PHP configurations and the installation process for Laravel. Once done, you can clone the repository and run ```composer install``` in the terminal of VSCode to install missing dependencies.
+You follow this tutorial [tutorial](https://www.youtube.com/watch?v=iBaM5LYgyPk) for smooth installation process, as there is some of the things in PHP that you have to configure to be able to install Laravel; installing Laravel just sucks and is harder than coding in PHP lmaoo. The video will guide you through the necessary PHP configurations and the installation process for Laravel. Once done, you can clone the repository and run ```composer install``` in the terminal of VSCode to install missing dependencies.
 
 ## Project Structure
 
